@@ -1,4 +1,4 @@
-<h1>Hello, I'm Kayode! <br/><a href="https://github.com/joshmadakor1">Data Scientist</a>, <a href="https://www.linkedin.com/in/amusan-kayode-07174910b/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hello, I'm Kayode! <br/><a href="https://github.com/joshmadakor1">Research Specialist</a>, <a href="https://www.linkedin.com/in/amusan-kayode-07174910b/">Research Analyst</a>, <a href="https://www.youtube.com/c/joshmadakor">Data Scientist</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
